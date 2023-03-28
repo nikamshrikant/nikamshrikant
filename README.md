@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikamshrikant
-- 👀 I’m interested in ...Competitive Programming in C++ and Java Programming Languages
+- 👀 I’m interested in ...Competitive Programming in C++ and Java Programming Language
 - 🌱 I’m currently learning ...Java (Advance)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Java , c++ , python , full stack web Projects
 - 📫 How to reach me ...gmail.com :- shrikant752002@gmail.com / Linkedin :-https://www.linkedin.com/in/shrikant-nikam-b3a71221a/
 
 <!---
