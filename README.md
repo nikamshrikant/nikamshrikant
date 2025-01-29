@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nikamshrikant
-- 👀 I’m interested in ...Competitive Programming in C++ and Java Programming Language
-- 🌱 I’m currently learning ...Java (Advance)
-- 💞️ I’m looking to collaborate on ... Java , c++ , python , full stack web Projects
-- 📫 How to reach me ...gmail.com :- shrikant752002@gmail.com / Linkedin :-https://www.linkedin.com/in/shrikant-nikam-b3a71221a/
+-  Hi, I’m @nikamshrikant
+-  I’m interested in ...Competitive Programming in Python & SQL Programming Language
+-  I’m currently learning ... SQL
+-  I’m looking to collaborate on ... Python ,SQL , Data Science , Data Analytics
+-  How to reach me ...gmail.com :- shrikant752002@gmail.com / Linkedin :-https://www.linkedin.com/in/shrikant-nikam-b3a71221a/
 
 <!---
 nikamshrikant/nikamshrikant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
